@@ -98,8 +98,8 @@ La ejecución completa de la inducción y el seguimiento posterior del nuevo col
 
 | Archivo | Descripción |
 |---|---|
-| [`candidate-journey.pdf`](candidate-journey.pdf) | Versión visual del Candidate Journey para consulta ejecutiva. |
-| [`candidate-journey.xlsx`](candidate-journey.xlsx) | Archivo editable con la matriz visual, base estructurada y metodología. |
+| [candidate-journey.pdf](./candidate-journey.pdf) | Versión visual del Candidate Journey para consulta ejecutiva. |
+| [candidate-journey.xlsx](./candidate-journey.xlsx) | Archivo editable con la matriz visual, base estructurada y metodología. |
 
 El archivo de Excel contiene tres componentes principales:
 
